@@ -120,6 +120,6 @@ Git • GitHub • Docker • VS Code
 I'm actively seeking **internship opportunities starting September 2026** and I would love to contribute my skills in **Data, AI, Cybersecurity and Business Intelligence**.
 
 📧 Email: fatimazahraeaidoun21@gmail.com  
-💼 LinkedIn: Fatima Zahrae Aidoun  
+💼 LinkedIn: https://www.linkedin.com/in/fatima-zahrae-aidoun/
 🐙 GitHub: FatimaZahraeAidoun  
 📍 Tanger, Morocco
