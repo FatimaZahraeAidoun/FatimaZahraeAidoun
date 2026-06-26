@@ -1,49 +1,125 @@
 👋 Hi, I'm Fatima Zahrae Aidoun
-Big Data & Artificial Intelligence Engineer | Cybersecurity Graduate | Data Analyst | Finance Enthusiast
+
+---
+
+**Big Data & Artificial Intelligence Engineer | Cybersecurity Graduate | Data Analyst | Finance Enthusiast**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatimazahraeaidoun) 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:fatimazahraeaidoun21@gmail.com)
-![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/FatimaZahraeAidoun)
-🚀 About Me
-I'm a recent graduate in Big Data & Artificial Intelligence, with an additional degree in Cybersecurity. I am passionate about transforming data into actionable insights, developing secure data-driven solutions, and continuously learning emerging technologies.
-🎯 Career Interests:
-🎓 Engineering Graduate in Big Data & Artificial Intelligence
-🔐 Graduate in Cybersecurity
-📊 Passionate about Data Analytics & Business Intelligence
-📈 Interested in Stock Markets, Investment & Financial Analysis
-🧠 Always learning new technologies in AI, Data Engineering and Cloud Computing
-🤝 Strong communication, teamwork and problem-solving skills
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/FatimaZahraeAidoun)
+
+---
+
+## 🚀 About Me
+
+I'm a Big Data & Artificial Intelligence graduate with a background in Cybersecurity.  
+I am passionate about transforming data into meaningful insights, building secure data-driven solutions, and exploring new technologies.
+
+🎯 **Career Interests:**
+
+- 🎓 Big Data & Artificial Intelligence
+- 🔐 Cybersecurity & Information Security
+- 📊 Data Analytics & Business Intelligence
+- 📈 Stock Market & Financial Analysis
+- 🤖 Artificial Intelligence & Machine Learning
+- ☁️ Data Engineering & Cloud Computing
+- 🤝 Communication, teamwork and problem-solving
+
+---
+
 ## 💼 Technical Stack
 
 ### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+Python • SQL • Bash
 
 ### 📊 Data Analytics & AI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter)
+Power BI • Pandas • NumPy • Scikit-Learn • Jupyter Notebook
 
 ### 🛡️ Cybersecurity
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square)
-![Security](https://img.shields.io/badge/Cybersecurity-2E8B57?style=flat-square)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp)
+Linux • Networking • OWASP • Ethical Hacking • Security Fundamentals
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+MySQL • PostgreSQL
 
 ### ☁️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+Git • GitHub • Docker • VS Code
 
-### 📈 Interests
-📊 Stock Market • 💹 Finance • 🤖 Artificial Intelligence • 📉 Data Analysis • 🔐 Cybersecurity
+---
 
+## 💼 Professional Experience
 
+### 📡 Telecommunications Manager
+**Liberty Mobile**
 
+**August 2024 – Present**
+
+- Manage telecommunications operations and technical support activities.
+- Monitor communication services and network performance.
+- Troubleshoot technical issues and improve service reliability.
+- Collaborate with teams to optimize operational efficiency.
+
+---
+
+### 🔐 Cybersecurity Intern
+**Ministry of the Interior – Morocco**
+
+**May 2023 – August 2023**
+
+- Performed vulnerability assessments and security analysis.
+- Conducted penetration testing to identify security weaknesses.
+- Applied cybersecurity best practices.
+- Prepared technical reports with recommendations.
+
+---
+
+## 🎓 Education
+
+### 🎓 Bachelor's Degree in Big Data & Artificial Intelligence
+**Ecole Supérieure de Technologie – Kénitra**
+
+**2025 – 2026**
+
+- Big Data • Artificial Intelligence • Machine Learning • Data Analytics
+
+---
+
+### 🎓 Diploma in Digital Infrastructure – Cybersecurity Option
+**Institut Spécialisé dans les Métiers de l'Offshoring – Tétouan**
+
+**2022 – 2024**
+
+- Cybersecurity • Linux • Networks • Ethical Hacking • Infrastructure Management
+
+---
+
+### 🎓 Baccalaureate in Mathematical Sciences (A)
+**Lycée Jaber Ibn Hayan – Tétouan**
+
+**2019 – 2020**
+
+---
+
+## 📜 Certifications
+
+- 🐍 Understanding and Visualizing Data with Python — Cisco Networking Academy
+- 🐧 NDG Linux Essentials — Cisco Networking Academy
+- 🛡️ Ethical Hacker — Cisco Networking Academy
+
+---
+
+## 🌐 Languages
+
+- 🇲🇦 Arabic — Native
+- 🇫🇷 French — Professional Proficiency (C1)
+- 🇬🇧 English — Professional Proficiency (B2+)
+
+---
+
+## 📫 Let's Connect!
+
+I'm actively seeking **internship opportunities starting September 2026** and I would love to contribute my skills in **Data, AI, Cybersecurity and Business Intelligence**.
+
+📧 Email: fatimazahraeaidoun21@gmail.com  
+💼 LinkedIn: Fatima Zahrae Aidoun  
+🐙 GitHub: FatimaZahraeAidoun  
+📍 Tanger, Morocco
